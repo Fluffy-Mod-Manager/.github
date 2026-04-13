@@ -7,7 +7,7 @@ Fluffy Mod Manager is a lightweight and easy-to-use mod manager designed to help
 
 ## 🔗 Get the Latest Release
 
-- [💾 Releases Page]() = `*Latest Release as of now*`
+- [💾 Releases Page](https://github.com/Fluffy-Mod-Manager/.github/releases) = `*Latest Release as of now*`
 
 ---
 
